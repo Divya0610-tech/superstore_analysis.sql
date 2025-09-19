@@ -27,11 +27,16 @@ This project analyzes Superstore sales data using SQL. It covers sales, profit, 
 
 ## 📸 Sample Output
 Total Sales and profit
+
 <img width="697" height="425" alt="Sales And Profit" src="https://github.com/user-attachments/assets/289fcd53-fba7-4d8f-b47c-c1f8adb919b8" />
+
 Output:
 
 Total Sales = 25285810.00
+
 Total Profit = 2938068.18
+
 ✅ Insight:
+
 👉 The company generated $25.3M in total sales with an overall profit of $2.94M This indicates that while sales volume is high, the profit margin (~12.5%) is relatively low, suggesting potential cost optimization opportunities or discount-related losses.
 
